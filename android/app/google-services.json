@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545764219850",
+    "project_id": "gabi-app-ea5a3",
+    "storage_bucket": "gabi-app-ea5a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545764219850:android:588741ed10853ee2960d33",
+        "android_client_info": {
+          "package_name": "com.example.auth_ta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ2sZfsqWZAyqKS_5QYOpmV1qEWpRPte0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
